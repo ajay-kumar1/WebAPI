@@ -15,8 +15,6 @@ namespace MvcApplication1.Controllers
                 new Blog { Id = 1, Name="C-SharpCorner", Url="http://www.c-sharpcorner.com/"},
                 new Blog { Id = 2, Name="CodeProject", Url="http://www.codeproject.com"},
                 new Blog { Id = 3, Name="StackOverflow", Url="http://stackoverflow.com/"},
-                 new Blog { Id = 4, Name="Google", Url="http://google.com/"},
-                  new Blog { Id = 5, Name="Yahoo", Url="http://yahoo.com/"},
             };
 
         // GET api/default1
